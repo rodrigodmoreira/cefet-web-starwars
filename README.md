@@ -178,7 +178,7 @@ Star Wars. Crie essa função em um módulo `friendly-fetch.js`.
 
 Lembre-se que o Web Storage salva apenas strings, então você pode precisar
 serializar um objeto antes de salvar e também dessearializar depois que
-que recuperar o valor salvo lá. Veja [slides sobre JSON][slides-json].
+recuperar o valor salvo lá. Veja [slides sobre JSON][slides-json].
 
 É possível criar uma promessa diretamente ou por como valor de retorno de uma
 função `async`.
